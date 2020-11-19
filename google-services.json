@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "804583519486",
+    "firebase_url": "https://raagviz.firebaseio.com",
+    "project_id": "raagviz",
+    "storage_bucket": "raagviz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804583519486:android:479a3c16db8bb99cb0a1af",
+        "android_client_info": {
+          "package_name": "com.dremkasper.raagviz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804583519486-iubnhmclupsc2upn5mv1gcqfrcupi5a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC-cmeyjJoZ_f6k-9NwMmkf7KvVNbqOXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804583519486-iubnhmclupsc2upn5mv1gcqfrcupi5a1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
