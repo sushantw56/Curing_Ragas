@@ -1,4 +1,4 @@
-# raagviz
+# Curing Ragas
 
 An application to cure of chronic diseases with Indian Ragas
 
